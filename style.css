@@ -20,6 +20,17 @@ nav a {
 }
 
 
+#accueil {
+    background-color: beige;
+    text-align: center;
+    padding: 60px 20px;
+}
+
+#accueil h2 {
+    color: darkgreen;
+    font-size: 32px;
+}
+
 h1 {
     color: darkgreen;
 }
