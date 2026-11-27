@@ -4,6 +4,22 @@ body {
     margin: 0;
 }
 
+header {
+    background-color: green;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+
 h1 {
     color: darkgreen;
 }
