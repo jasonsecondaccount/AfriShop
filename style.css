@@ -72,3 +72,14 @@ footer {
     text-align: center;
     padding: 15px;
 }
+.catalogue {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.carte {
+    box-sizing: border-box;
+    max-width: 100%;
+}
