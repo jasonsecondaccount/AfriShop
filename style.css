@@ -60,3 +60,15 @@ h1 {
     object-fit: cover;
     border-radius: 5px;
 }
+
+#contact {
+    text-align: center;
+    padding: 30px;
+}
+
+footer {
+    background-color: #20543e;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
